@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FakeStore</string>
+    <string name="favorite">Favoritar</string>
+    <string name="favorites">Favoritos</string>
+    <string name="deletar">Deletar</string>
+    <string name="favoritesEmpty">Sua lista de produtos salvos está vazia.</string>
 </resources>
